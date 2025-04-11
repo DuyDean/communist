@@ -1,1 +1,166 @@
 # communist
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tinh thần cộng sản bất diệt</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <style>
+	  body {
+	  font-family: 'Roboto', sans-serif;
+	  background: url('background.jpg') no-repeat center center fixed;
+	  background-size: cover;
+	  background-color: #f4f4f4;
+	  color: #333;
+	  margin: 0;
+	  padding: 20px;
+	  backdrop-filter: blur(2px);
+	}
+    h1 {
+      text-align: center;
+      font-size: 42px;
+      margin-bottom: 10px;
+      color: #a20000;
+    }
+    hr {
+      width: 40%;
+      border: 1px solid #a20000;
+      margin: 0 auto 30px auto;
+    }
+    .poem {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      line-height: 1.8;
+      font-size: 20px;
+      white-space: pre-line;
+    }
+    .media {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .media img {
+      max-width: 90%;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    iframe {
+      width: 90%;
+      height: 480px;
+      border: none;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+<h1>CỘNG SẢN</h1>
+<hr>
+<div class="intro" style="max-width: 800px; margin: 0 auto 30px auto; font-size: 20px; line-height: 1.6; color: #444; font-style: italic; background-color: #fdfdfd; padding: 20px; border-left: 4px solid #a20000; border-radius: 6px;">
+  Bài thơ <strong>“Cộng Sản”</strong> là khúc suy tư lịch sử về một lý tưởng lớn lao – khát vọng về công bằng, bình đẳng, và đoàn kết giữa con người.  
+  <br><br>  
+  Qua hành trình từ ánh sáng đến thử thách, từ lý tưởng đến hiện thực, bài thơ không chỉ nhìn lại những dấu mốc của lịch sử, mà còn khơi dậy niềm tin – một giấc mơ về một xã hội công bằng vẫn chưa bao giờ tắt.
+</div>
+<div class="media">
+  <!-- Poster -->
+  <img src="E:\no problem\program\Mác-Lenin.jpg" alt="Poster thơ Cộng sản" width="900px", height="1000px">
+  <hr>
+  <img src="E:\no problem\program\Ho_Chi_Minh_1946.jpg" alt="Poster thơ Cộng sản" width="300px", height="200px">
+  <img src="E:\no problem\program\Lenin.jpg" alt="Poster thơ Cộng sản" width="300px", height="200px">
+</div>
+<div class="poem">
+Trong bóng đêm lịch sử xa<br>
+Một ý tưởng đã nở hoa<br>
+Cộng sản – niềm hy vọng lớn<br>
+Về xã hội thật hài hòa<br>
+<br>
+Marx – Lenin dấy ngọn cờ<br>
+Dẫn phong trào khắp bến bờ<br>
+Cách mạng lan khắp thế giới<br>
+Gọi nhân loại đến ước mơ<br>
+<br>
+Nhưng con đường đầy gian nan<br>
+Biết bao thử thách muôn vàn<br>
+Sai lầm, đổ vỡ, thất bại<br>
+Vẫn không tắt lửa trong gan<br>
+<br>
+Khát khao công lý cháy hoài<br>
+Dù bao lần giấc mộng phai<br>
+Cộng sản – không chỉ ý tưởng<br>
+Mà là niềm tin lâu dài<br>
+<br>
+Lý tưởng có thể đổi thay<br>
+Nhưng tâm nguyện vẫn đong đầy<br>
+Mơ về ngày công bằng đến<br>
+Vẫn theo ta suốt tháng ngày<br>
+<br>
+Lịch sử dạy: chẳng dễ đâu<br>
+Đường công bằng chẳng mượt màu<br>
+Phải đánh đổi bằng máu lệ<br>
+Và đôi khi cả nỗi đau<br>
+<br>
+Ta không quên những điều hay<br>
+Chủ nghĩa ấy từng dựng xây<br>
+Công bằng – điều ta còn giữ<br>
+Trong hành trình hướng tương lai<br>
+<br>
+Phải cùng nhau bước chung đường<br>
+Dù đời vẫn lắm đoạn trường<br>
+Đoàn kết – chìa khóa bền vững<br>
+Dựng ngày mai rực yêu thương<br>
+<br>
+Không để khác biệt chia ranh<br>
+Mà tìm tiếng nói đồng thanh<br>
+Xây một xã hội công lý<br>
+Gắn liền tình nghĩa chân thành<br>
+<br>
+Khi lý tưởng hóa hiện thân<br>
+Ta thấy mộng lớn chẳng gần<br>
+Nhưng nếu cùng nhau cố gắng<br>
+Mọi điều sẽ hóa thật chân<br>
+<br>
+Thời Chiến tranh lạnh năm nào<br>
+Thế giới chia rẽ làm sao<br>
+Cộng sản là niềm phản kháng<br>
+Vì tự do – chẳng cúi chào<br>
+<br>
+Miền Đông – Miền Tây đối đầu<br>
+Ý thức hệ dựng tường rào<br>
+Cộng sản trở thành biểu tượng<br>
+Của sợ hãi lẫn tự hào<br>
+<br>
+Nhưng ai còn giữ niềm tin<br>
+Cộng sản vẫn là trái tim<br>
+Của giấc mơ công bằng đẹp<br>
+Của hy vọng chẳng thể chìm<br>
+<br>
+Dù tường Berlin ngã rồi<br>
+Liên Xô chỉ còn bóng trôi<br>
+Lý tưởng xưa – trang lịch sử<br>
+Nhưng còn vọng mãi không thôi<br>
+<br>
+Việt Nam – một dải đất dài<br>
+Mang trong tim khát vọng hoài<br>
+Từ kháng chiến thời chống Pháp<br>
+Đến chống Mỹ – không đầu hàng ai<br>
+<br>
+Qua tháng năm đau thương nhiều<br>
+Bằng đoàn kết, bằng chí kiêu<br>
+Dân tộc vươn lên bền vững<br>
+Với một niềm tin rất thiêng liêng<br>
+<br>
+Bài học Việt Nam còn đó<br>
+Là kiên trì chẳng buông bỏ<br>
+Đấu tranh vì độc lập quý<br>
+Và tự do – điều quý rõ<br>
+<br>
+<div>
+<!-- Video -->
+  <iframe src="E:\no problem\program\Soviet-Russian anthem.mp4" title="Thơ Cộng sản minh họa video"></iframe>
+</div>
+</div>
+</body>
+</html>
